@@ -78,7 +78,10 @@ header .profile-image:hover {
   transition-duration: 3s;
 }
 
-
+.plant {
+max-width: 200px;
+padding-top: 100px;
+}
 
 .tag {
   background-color: #485061;
@@ -230,4 +233,5 @@ a.social:hover {
 
   h2{
       color: #ff604b;
+}
 }
